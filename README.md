@@ -5,7 +5,7 @@ This repo is to build the whole ASP.NET 5 stack.
 
 ## Getting started
 
-    git clone git@github.com:aspnet/Universe.git
+    git clone https://github.com/aspnet/Universe.git
     cd Universe
     build
 
